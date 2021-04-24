@@ -1,0 +1,2 @@
+expo start
+json-server ./src/services/server.json --host 192.168.15.18 --port 3333 --delay 700
